@@ -1,0 +1,5 @@
+{
+    "configuration": "PSRAM=disabled,FlashMode=opi,FlashSize=4M,LoopCore=1,EventsCore=1,USBMode=hwcdc,CDCOnBoot=default,MSCOnBoot=default,DFUOnBoot=default,UploadMode=default,PartitionScheme=default,CPUFreq=240,UploadSpeed=921600,DebugLevel=none",
+    "board": "esp32:esp32:esp32s3",
+    "sketch": "MeterClock.ino"
+}
